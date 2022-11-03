@@ -7,7 +7,7 @@
 3. Создание личной страницы.  
 4. Размещение кода исходной страницы в <a href=https://github.com/S7yka4/IT-labs-magistratura> репозитории</a>.  
 5. Размещение странички на хостинге.  
-6. Веб-страничка с описанием лабораторных работ доступна по ссылке:  <a href=https://github.com/S7yka4/IT-labs-magistratura Web-Page  </a>     
+6. Веб-страничка с описанием лабораторных работ доступна по ссылке:  <a href=https://github.com/S7yka4/IT-labs-magistratura> Web-Page  </a>     
 
 
 ## ✅ Лабораторная работа № 2  
