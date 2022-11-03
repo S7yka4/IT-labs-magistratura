@@ -68,7 +68,7 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:  
-1. <a href=https://github.com/GerardoGerardi/IT-technology-workout/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%20%D0%BF%D0%BE%20%D0%9B%D0%A03%20%2C%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20CISCO/IDB-18-02_Saad_Ali_otchyot_po_setyam_LR4_1%20(2).pdf> Отчёт </a> по лабораторной работе 
+1. <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2v_%D0%9C%D0%B0%D1%82%D1%84%D0%B5%D0%B9_%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%9B%D0%A04_%D0%98%D0%94%D0%91-18-02.pdf> Отчёт </a> по лабораторной работе 
 2. <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/Stsenariy_4_dlya_CPT.pka> Сценарий  </a> для настройки устройств 
 3. Информация о <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/Stsenariy_4_dlya_CPT.pka>   конфигурации  </a> устройств
 ## ✅ Экзаменационный билет
