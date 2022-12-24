@@ -97,7 +97,7 @@
 Материалы о выполнении лабораторной работы:  
 1. <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2v_%D0%9C%D0%B0%D1%82%D1%84%D0%B5%D0%B9_%D0%9E%D1%82%D1%87%D1%91%D1%82_%D0%9B%D0%A04_%D0%98%D0%94%D0%91-18-02.pdf> Отчёт </a> по лабораторной работе 
 2. <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/Stsenariy_4_dlya_CPT.pka> Сценарий  </a> для настройки устройств 
-3. Информация о <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0%2C%20%D1%81%D0%B5%D1%82%D0%B8%2C%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/Stsenariy_4_dlya_CPT.pka>   конфигурации  </a> устройств
+3. Информация о <a href=https://github.com/S7yka4/IT-labs-magistratura/blob/main/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BF%D0%BE%203%20%D0%9B%D0%A0,%20%D1%81%D0%B5%D1%82%D0%B8,%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%20CISCO/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F%204.txt>   конфигурации  </a> устройств
 ## ✅ Экзаменационный билет
 Ответ на экзаменационный билет доступен по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> билет 28</a>.  
 История изменений экзаменационного билета доступна по ссылке: <a href=https://github.com/stankin/inet-2022/wiki/exam28> Сравнение коммитов в билете 28</a>.  
